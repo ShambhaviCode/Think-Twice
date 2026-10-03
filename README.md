@@ -4,14 +4,14 @@
 
 Think Twice checks suspicious texts, WhatsApp messages and emails for the tricks scammers use most. It underlines every red flag in the message and explains why it matters, in plain language anyone can understand.
 
-🔗 **Live demo:https://think-twice-zeta.vercel.app/
+🔗 Live demo:https://think-twice-zeta.vercel.app/
 
 ## 📸 Screenshots
-#![Checking a scam message]<img width="1520" height="877" alt="image" src="https://github.com/user-attachments/assets/b0f54db0-de6a-4529-b20d-54679bd4f031" />
+<img width="1520" height="877" alt="image" src="https://github.com/user-attachments/assets/b0f54db0-de6a-4529-b20d-54679bd4f031" />
 
-#![Practice mode]<img width="1522" height="637" alt="Screenshot 2026-10-03 061624" src="https://github.com/user-attachments/assets/f77c3db4-64f0-40ae-af03-f313105cd245" />
+<img width="1522" height="637" alt="Screenshot 2026-10-03 061624" src="https://github.com/user-attachments/assets/f77c3db4-64f0-40ae-af03-f313105cd245" />
 
-#![Practice mode]<img width="1512" height="851" alt="image" src="https://github.com/user-attachments/assets/7c299901-ce57-4301-b8a9-b26f0fe73ecb" />
+<img width="1512" height="851" alt="image" src="https://github.com/user-attachments/assets/7c299901-ce57-4301-b8a9-b26f0fe73ecb" />
 
 
 ## 🚨 The problem
