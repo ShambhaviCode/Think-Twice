@@ -57,3 +57,12 @@ So several weak signs add up, but no single weak sign decides the result. A mess
 ## 🚀 Run it locally
 
 No installation needed. 📥 Download the repository and open `index.html` in any browser.
+
+<div align="center">
+
+**Built by Shambhavi **
+
+MIT License
+
+</div>
+
