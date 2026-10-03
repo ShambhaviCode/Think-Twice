@@ -60,7 +60,7 @@ No installation needed. 📥 Download the repository and open `index.html` in an
 
 <div align="center">
 
-**Built by Shambhavi **
+## Built by Shambhavi 
 
 MIT License
 
